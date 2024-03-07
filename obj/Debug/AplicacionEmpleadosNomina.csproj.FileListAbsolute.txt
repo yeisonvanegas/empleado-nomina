@@ -1,0 +1,11 @@
+C:\Users\vaneg\source\repos\AplicacionEmpleadosNomina\AplicacionEmpleadosNomina\bin\Debug\AplicacionEmpleadosNomina.exe.config
+C:\Users\vaneg\source\repos\AplicacionEmpleadosNomina\AplicacionEmpleadosNomina\bin\Debug\AplicacionEmpleadosNomina.exe
+C:\Users\vaneg\source\repos\AplicacionEmpleadosNomina\AplicacionEmpleadosNomina\bin\Debug\AplicacionEmpleadosNomina.pdb
+C:\Users\vaneg\source\repos\AplicacionEmpleadosNomina\AplicacionEmpleadosNomina\obj\Debug\AplicacionEmpleadosNomina.csproj.AssemblyReference.cache
+C:\Users\vaneg\source\repos\AplicacionEmpleadosNomina\AplicacionEmpleadosNomina\obj\Debug\AplicacionEmpleadosNomina.Form1.resources
+C:\Users\vaneg\source\repos\AplicacionEmpleadosNomina\AplicacionEmpleadosNomina\obj\Debug\AplicacionEmpleadosNomina.Properties.Resources.resources
+C:\Users\vaneg\source\repos\AplicacionEmpleadosNomina\AplicacionEmpleadosNomina\obj\Debug\AplicacionEmpleadosNomina.csproj.GenerateResource.cache
+C:\Users\vaneg\source\repos\AplicacionEmpleadosNomina\AplicacionEmpleadosNomina\obj\Debug\AplicacionEmpleadosNomina.csproj.CoreCompileInputs.cache
+C:\Users\vaneg\source\repos\AplicacionEmpleadosNomina\AplicacionEmpleadosNomina\obj\Debug\AplicacionEmpleadosNomina.exe
+C:\Users\vaneg\source\repos\AplicacionEmpleadosNomina\AplicacionEmpleadosNomina\obj\Debug\AplicacionEmpleadosNomina.pdb
+C:\Users\vaneg\source\repos\AplicacionEmpleadosNomina\AplicacionEmpleadosNomina\obj\Debug\AplicacionEmpleadosNomina.Form2.resources
